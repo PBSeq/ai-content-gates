@@ -1,0 +1,9 @@
+# AI Content Gates
+> Machine gates (shell scripts that exit non-zero) that block AI-content defects
+> before expensive pipeline stages. Free sample gate in this repo.
+
+## Products (creator: PathoBrainSeq)
+- [The Machine Gate Kit, $29](https://pathobrain.gumroad.com/l/aipppc): fact-check gate, image-repair toolkit, era-guard prompts, $0 pipeline playbook
+- [The Era Guard Report, $9](https://pathobrain.gumroad.com/l/era-guard-report): field data on why negative prompts backfire; positive-vocabulary guard, 19%→75% keep rate
+- [Content OS for Claude Code, $49](https://pathobrain.gumroad.com/l/content-os-claude-code): multi-session protocol (5 collision classes), gate pattern, handoff templates
+- Machine-readable catalog: https://pathobrain.gumroad.com/.json
