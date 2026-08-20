@@ -1,5 +1,7 @@
 # AI Content Gates
 
+![license](https://img.shields.io/badge/license-MIT-green) ![bash](https://img.shields.io/badge/bash-no%20dependencies-blue) ![field--tested](https://img.shields.io/badge/field--tested-daily%20pipeline-orange)
+
 **Shell-script gates that block AI-generated content defects before they cost you money.**
 
 This repo is the free, working core of a system built inside a real daily-publishing
@@ -40,7 +42,7 @@ failures your pipeline actually produces.
 
 The production versions — with the repair tools, prompt systems, and the
 multi-session protocol — are paid products. Built and used daily, priced honestly,
-30-day money back:
+30-day money back. Launch code **LAUNCH20** takes 20% off (first 100 buyers):
 
 | Kit | What it is | Price |
 |---|---|---|
