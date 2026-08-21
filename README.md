@@ -35,6 +35,8 @@ classes that most often survive human review:
 ./gate-sample.sh your-script.md   # exit 0 = pass, exit 1 = blocked, with line numbers
 ```
 
+[22-second video demo](https://youtu.be/AlYKXedyVI8) — watch the gate catch a fabricated claim.
+
 No dependencies beyond bash and grep. Copy it, edit the patterns to match the
 failures your pipeline actually produces.
 
